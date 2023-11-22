@@ -1,0 +1,3 @@
+express-session should used before any routes and other session variables are called
+passport initialize and session should in use before the routes
+use express.urlencoded to parse the request of a form body

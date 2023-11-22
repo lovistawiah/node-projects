@@ -1,0 +1,28 @@
+[
+  {
+    "username": "Lovis",
+    "roles": {
+      "User": 2001,
+      "Editor": 1984,
+      "Admin": 5150
+    },
+    "password": "$2b$10$4f6iWhIPpmhW5vuZQeVeL.m3z.W/NTPBhJi/B9rVg/xj.9F6NKVuu",
+    "refreshToken": ""
+  },
+  {
+    "username": "Lovis tawiah",
+    "password": "$2b$10$9c6BkKKFa9r2oEMcbJLvAuBWuVZNFfuaVn9bU1YSzyr13yp3t/66G",
+    "roles": {
+      "User": 2001,
+      "Editor": 1984
+    }
+  },
+  {
+    "username": "Lovis teteh",
+    "password": "$2b$10$zH1NgZHBqrXkd3ImpB.ab.h1/bEqAfsVtsP7Y46FZQIIbmJs3bCc."
+  },
+  {
+    "username": "Lovis tetteh",
+    "password": "$2b$10$8VsKjF7vUp91WlnJjkVkwe6mq0AKMBZb3HSD6Z/PN3fydeFBrNbFe"
+  }
+]

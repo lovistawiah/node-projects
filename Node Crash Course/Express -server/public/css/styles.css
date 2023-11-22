@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: rgb(3, 3, 3);
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: cursive;
+}
+
+h1 {
+    padding: 20%;
+    font-size: 2rem;
+}

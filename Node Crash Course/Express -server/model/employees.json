@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "first name": "Lovis",
+    "last name": "Tawiah",
+    "occupation type": "Software Engineer"
+  },
+  {
+    "id": "2",
+    "first name": "Kimathi",
+    "last name": "Tetteh",
+    "occupation type": "Entrepreneur"
+  },
+  {
+    "id": "3",
+    "first name": "Cassandra",
+    "last name": "Tetteh",
+    "occupation type": "Entrepreneur"
+  },
+  {
+    "id": "4",
+    "first name": "Anaisa",
+    "last name": "Tetteh",
+    "occupation type": "Minister of Foreign Affairs"
+  },
+  {
+    "id": "5",
+    "first name": "Aries",
+    "last name": "Tetteh",
+    "occupation type": "Chancellor"
+  }
+]

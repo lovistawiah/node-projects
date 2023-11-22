@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl":"https://www.jumia.com.gh/tecno-pop-6-go-6.0-3g-32gb-hdd-2gb-ram-5mp5mp-4000mah-iris-purple-13-months-warranty-51717591.html"
+}

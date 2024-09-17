@@ -5,18 +5,22 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon ./index.js --exec babel-node -e js",
-    "nodemonthis": "nodemon ./index.js --exec babel-node -e js"
+    "nodemonthis": "nodemon ./index.js --exec babel-node -e js",
+    "prepublish": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "author": "Emmanuel Henri",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
     "nodemon": "^1.18.4",
-    "socketio": "^1.0.0"
+    "socketio": "^1.0.0",
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-stage-0": "^6.24.1"
-  }
+  },
+  "snyk": true
 }
